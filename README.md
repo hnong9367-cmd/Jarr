@@ -1,11 +1,37 @@
-<div align="center">
+# J2ME-Loader 
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+[![Travis CI](https://travis-ci.org/nikita36078/J2ME-Loader.svg?branch=master)](https://travis-ci.org/nikita36078/J2ME-Loader)
+[![Crowdin](https://d322cqt584bo4o.cloudfront.net/j2me-loader/localized.svg)](https://crowdin.com/project/j2me-loader)
+[![GitHub release](https://img.shields.io/github/release/nikita36078/J2ME-Loader.svg)](https://github.com/nikita36078/J2ME-Loader/releases)
+[![Donate](https://img.shields.io/badge/donate-paypal-blue.svg)](https://www.paypal.me/nikita36078)
 
-  <h1>Built with AI Studio</h2>
+J2ME-Loader is a J2ME emulator for Android. It supports most 2D games and also 3D with some limitations (Mascot Capsule 3D games don't work). Emulator has a virtual keyboard, individual settings for each application, scaling support.
+This project is a fork of [J2meLoader](https://github.com/NaikSoftware/J2meLoader).
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+System requirements: Android 4.0+  
+[4PDA.ru discussion](http://4pda.ru/forum/index.php?showtopic=824201)  
+[XDA-Developers](https://forum.xda-developers.com/android/apps-games/app-j2me-loader-t3777889)
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+<a href="https://play.google.com/store/apps/details?id=ru.playsoftware.j2meloader">
+<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" height="75"></a>
+<a href="https://f-droid.org/app/ru.playsoftware.j2meloader">
+<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="75"></a>
 
-</div>
+## Compatibility
+[List of the tested Java Games (Touchscreen)](https://github.com/nikita36078/J2ME-Loader/wiki/List-of-Tested-Java-Games-(Touchscreen))  
+[List of the tested Java Games (Non Touchscreen)](https://github.com/nikita36078/J2ME-Loader/wiki/List-of-Tested-Java-Games-(Non-Touchscreen))  
+[List of the Java Games with glitches](https://github.com/nikita36078/J2ME-Loader/wiki/List-of-Java-Games-with-glitches)
+
+## Tips
+ - Enabling filtering in some cases can greatly reduce performance. Disable this option if game is too slow.
+ - Image flickering issues can be fixed by enabling the "Immediate processing mode" option.
+
+## Screenshots
+
+<img src="/screenshots/screen.jpg" width="288" height="512"> <img src="/screenshots/screen2.jpg" width="288" height="512">
+<img src="/screenshots/screen3.jpg" width="288" height="512"> <img src="/screenshots/screen4.jpg" width="288" height="512">
+
+## License
+> Copyright 2017-2018 Nikita Shakarun.  
+> Licensed under the [Apache License, Version 2.0.](http://www.apache.org/licenses/LICENSE-2.0)  
+> (See the [LICENSE](https://github.com/nikita36078/J2ME-Loader/blob/master/LICENSE) file for the whole license text.)

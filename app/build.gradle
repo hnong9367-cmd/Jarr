@@ -10,7 +10,7 @@ android {
     namespace 'ru.playsoftware.j2meloader'
 
     defaultConfig {
-        applicationId "ru.playsoftware.j2meloader"
+        applicationId "com.aistudio.dragonboy.hnhngh"
         minSdk MIN_SDK
         targetSdk TARGET_SDK
         versionCode 101

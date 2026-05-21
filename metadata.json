@@ -1,6 +1,6 @@
 {
-  "name": "J2ME Loader",
-  "description": "A J2ME emulator for Android.",
+  "name": "Dragon Boy",
+  "description": "Dragon Boy J2ME game.",
   "requestFramePermissions": [],
   "majorCapabilities": [
     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
